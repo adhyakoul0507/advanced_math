@@ -103,6 +103,8 @@ Where:
 
 These parameters are computed directly from the transformed dataset.
 
+Method of Moments (MoM):
+The parameters of the probability density function are estimated using the Method of Moments (MoM). In this method, the theoretical moments of the assumed distribution are equated with the sample moments computed from the transformed data. The sample mean is used to estimate μ, and the sample variance is used to estimate σ². Using these estimated moments, the parameters λ and c are calculated.
 
 
 ## Results
