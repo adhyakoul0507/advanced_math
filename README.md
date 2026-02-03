@@ -114,7 +114,6 @@ The estimated parameters obtained after processing the data are shown below:
 | Parameter                  | Description                          | Value                |
 | -------------------------- | ------------------------------------ | -------------------- |
 | Mean (μ)                   | Central tendency of transformed data | 0.029463039837684103 |
-| Variance (σ²)              | Spread of distribution               | Computed from data   |
 | λ (Lambda)                 | Inverse variance term                | 1120.7039391836472   |
 | c (Normalization Constant) | Ensures total probability = 1        | 18.887327585639866   |
 
