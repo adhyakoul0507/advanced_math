@@ -20,7 +20,6 @@ The dataset used for this assignment is the India Air Quality Data, obtained fro
 
 * Continuous numerical values
 
----
 
 ## Preprocessing Steps
 
@@ -32,7 +31,7 @@ Before applying the model, the data is cleaned and prepared:
 
 These preprocessing steps ensure that the data is suitable for mathematical operations and statistical modeling.
 
----
+
 
 ## Roll Number Based Parameters
 
@@ -54,7 +53,7 @@ r = 102317026
 
 Each student obtains a slightly different transformed dataset and learned probability density function.
 
----
+
 
 ## Methodology
 
@@ -121,5 +120,5 @@ The estimated parameters obtained after processing the data are shown below:
 
 These values define the final learned probability density function for the transformed NO₂ data.
 
----
+
 
